@@ -13,8 +13,9 @@ A simple React CRUD (Create, Read, Update, Delete) application built using React
 2. Extract the zip file
 3. Open in VS code
 4. First open, file name integrated terminal
-5. Enter this command to start server : json-server --watch db.json
-6. Then open another terminal to start the development server: npm run dev
+5. Install node modules : npm install
+6. Enter this command to start server : json-server --watch db.json
+7. Then open another terminal to start the development server: npm run dev
 
 
 ## Features
